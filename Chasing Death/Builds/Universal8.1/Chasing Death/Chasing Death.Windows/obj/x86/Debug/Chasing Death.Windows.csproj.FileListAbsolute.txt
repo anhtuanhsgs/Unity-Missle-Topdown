@@ -1,0 +1,59 @@
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\App.xbf
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\MainPage.xbf
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\Chasing Death.xr.xml
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\Chasing Death.exe
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\Chasing Death.pdb
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\resources.pri
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\AppxManifest.xml
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\Chasing Death.Windows.build.appxrecipe
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\Assembly-CSharp-firstpass.dll
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\Assembly-CSharp.dll
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\Assembly-UnityScript.dll
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\BridgeInterface.winmd
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\UnityEngine.dll
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\UnityEngine.Networking.dll
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\UnityEngine.UI.dll
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\UnityEngineDelegates.winmd
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\UnityEngineProxy.dll
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\UnityPlayer.winmd
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\WinRTBridge.winmd
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\WinRTLegacy.dll
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\UnityPlayer.dll
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\WinRTBridge.pdb
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\BridgeInterface.dll
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\BridgeInterface.pdb
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\UnityEngineDelegates.dll
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\UnityEngineDelegates.pdb
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\UnityEngineProxy.pdb
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\Assembly-CSharp-firstpass.pdb
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\Assembly-CSharp.pdb
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\Assembly-UnityScript.pdb
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\UnityEngine.pdb
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\UnityEngine.UI.pdb
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\UnityEngine.Networking.pdb
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\Chasing Death.Windows.csprojResolveAssemblyReference.cache
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\App.g.i.cs
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\App.g.cs
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\MainPage.g.i.cs
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\MainPage.g.cs
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\App.xaml
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\MainPage.xaml
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\App.xbf
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\MainPage.xbf
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\XamlSaveStateFile.xml
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\Chasing Death.exe
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\Chasing Death.pdb
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\Chasing Death.Windows.csproj.GenerateResource.Cache
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\priconfig.xml
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\priconfig.xml.intermediate
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\layout.resfiles
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\layout.resfiles.intermediate
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\resources.resfiles
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\resources.resfiles.intermediate
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\pri.resfiles
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\pri.resfiles.intermediate
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\qualifiers.txt
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\qualifiers.txt.intermediate
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\ProjectArchitectures.txt

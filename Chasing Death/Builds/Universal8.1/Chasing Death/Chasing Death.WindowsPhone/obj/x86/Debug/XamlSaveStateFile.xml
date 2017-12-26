@@ -1,0 +1,17 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="d:\unity\unity projects\chasing death\builds\universal8.1\chasing death\chasing death.windowsphone\assembly-csharp-firstpass.dll" HashGuid="7f1285bf-76cd-2a8e-117c-68a3f59a64bf" />
+    <ReferenceAssembly PathName="d:\unity\unity projects\chasing death\builds\universal8.1\chasing death\chasing death.windowsphone\assembly-csharp.dll" HashGuid="bf4f1a08-9e27-c61e-df55-36f13f5f196b" />
+    <ReferenceAssembly PathName="d:\unity\unity projects\chasing death\builds\universal8.1\chasing death\chasing death.windowsphone\assembly-unityscript.dll" HashGuid="2f2f9ac5-5bea-5783-7a22-2d7e17527ab4" />
+    <ReferenceAssembly PathName="d:\unity\unity projects\chasing death\builds\universal8.1\players\windowsphone81\x86\debug\bridgeinterface.winmd" HashGuid="b2825135-e82a-685b-155d-9390f035e91b" />
+    <ReferenceAssembly PathName="d:\unity\unity projects\chasing death\builds\universal8.1\chasing death\chasing death.windowsphone\unityengine.dll" HashGuid="37b8bf56-ccf7-b79e-8a6f-40ad816627a1" />
+    <ReferenceAssembly PathName="d:\unity\unity projects\chasing death\builds\universal8.1\chasing death\chasing death.windowsphone\unityengine.networking.dll" HashGuid="d3623836-aaf6-438a-7b07-a4a5f399552d" />
+    <ReferenceAssembly PathName="d:\unity\unity projects\chasing death\builds\universal8.1\chasing death\chasing death.windowsphone\unityengine.ui.dll" HashGuid="80799fa8-b2c2-8111-64bf-4c65fb31bcd6" />
+    <ReferenceAssembly PathName="d:\unity\unity projects\chasing death\builds\universal8.1\players\windowsphone81\x86\debug\unityenginedelegates.winmd" HashGuid="a758cda9-20bf-3e09-bb41-ffa443958e6c" />
+    <ReferenceAssembly PathName="d:\unity\unity projects\chasing death\builds\universal8.1\players\windowsphone81\x86\debug\unityengineproxy.dll" HashGuid="9bd381b4-6efe-1127-7105-c0a8a5e5a51a" />
+    <ReferenceAssembly PathName="d:\unity\unity projects\chasing death\builds\universal8.1\players\windowsphone81\x86\debug\unityplayer.winmd" HashGuid="8c836450-9092-a4a7-7eb9-924b53c4e59d" />
+    <ReferenceAssembly PathName="d:\unity\unity projects\chasing death\builds\universal8.1\players\windowsphone81\x86\debug\winrtbridge.winmd" HashGuid="f1c186df-91ac-0e8b-ff32-543d5c879099" />
+    <ReferenceAssembly PathName="d:\unity\unity projects\chasing death\builds\universal8.1\chasing death\chasing death.windowsphone\winrtlegacy.dll" HashGuid="a92ae7c7-8629-c9e0-a1dc-00d485a89d94" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

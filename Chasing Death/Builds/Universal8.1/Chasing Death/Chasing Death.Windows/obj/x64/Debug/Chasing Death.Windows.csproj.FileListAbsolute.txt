@@ -1,0 +1,6 @@
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x64\Debug\App.g.i.cs
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x64\Debug\App.g.cs
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x64\Debug\MainPage.g.i.cs
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x64\Debug\MainPage.g.cs
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x64\Debug\XamlTypeInfo.g.cs
+D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x64\Debug\XamlSaveStateFile.xml

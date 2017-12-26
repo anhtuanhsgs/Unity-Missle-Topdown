@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-22MGHM1</Machine>
+    <WindowsUser>TUAN</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>ChasingDeath</PackageIdentityName>
+    <PackageIdentityPublisher>CN=TuanCompany</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>F0FA26F7A73E3DD03350D491306CDB89E5486889A462496D212A42683C3DC44D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ChasingDeath_1.0.0.0_x86__zee06spp57s0a</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ChasingDeath_zee06spp57s0a!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ChasingDeath</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=TuanCompany</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-19T08:31:04.164</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\Chasing Death.exe">
+      <PackagePath>Chasing Death.exe</PackagePath>
+      <Modified>2016-08-19T08:30:59.476</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\Assembly-CSharp-firstpass.dll">
+      <PackagePath>Assembly-CSharp-firstpass.dll</PackagePath>
+      <Modified>2016-08-19T08:30:58.844</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\Assembly-CSharp.dll">
+      <PackagePath>Assembly-CSharp.dll</PackagePath>
+      <Modified>2016-08-19T08:30:58.881</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\Assembly-UnityScript.dll">
+      <PackagePath>Assembly-UnityScript.dll</PackagePath>
+      <Modified>2016-08-19T08:30:58.903</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\UnityEngine.dll">
+      <PackagePath>UnityEngine.dll</PackagePath>
+      <Modified>2016-08-19T08:30:59.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\UnityEngine.Networking.dll">
+      <PackagePath>UnityEngine.Networking.dll</PackagePath>
+      <Modified>2016-08-19T08:30:59.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\UnityEngine.UI.dll">
+      <PackagePath>UnityEngine.UI.dll</PackagePath>
+      <Modified>2016-08-19T08:30:59.336</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Players\Windows81\x86\Debug\UnityEngineProxy.dll">
+      <PackagePath>UnityEngineProxy.dll</PackagePath>
+      <Modified>2016-02-19T19:59:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\WinRTLegacy.dll">
+      <PackagePath>WinRTLegacy.dll</PackagePath>
+      <Modified>2016-02-19T19:59:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Players\Windows81\x86\Debug\UnityPlayer.dll">
+      <PackagePath>UnityPlayer.dll</PackagePath>
+      <Modified>2016-02-19T20:03:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Players\Windows81\x86\Debug\BridgeInterface.dll">
+      <PackagePath>BridgeInterface.dll</PackagePath>
+      <Modified>2016-02-19T19:59:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Players\Windows81\x86\Debug\UnityEngineDelegates.dll">
+      <PackagePath>UnityEngineDelegates.dll</PackagePath>
+      <Modified>2016-02-19T19:59:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Players\Windows81\x86\Debug\BridgeInterface.winmd">
+      <PackagePath>BridgeInterface.winmd</PackagePath>
+      <Modified>2016-02-19T19:59:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Players\Windows81\x86\Debug\UnityEngineDelegates.winmd">
+      <PackagePath>UnityEngineDelegates.winmd</PackagePath>
+      <Modified>2016-02-19T19:59:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Players\Windows81\x86\Debug\UnityPlayer.winmd">
+      <PackagePath>UnityPlayer.winmd</PackagePath>
+      <Modified>2016-02-19T20:03:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Players\Windows81\x86\Debug\WinRTBridge.winmd">
+      <PackagePath>WinRTBridge.winmd</PackagePath>
+      <Modified>2016-02-19T19:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\Assets\MediumTile.scale-100.png">
+      <PackagePath>Assets\MediumTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-15T11:01:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-15T11:01:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-19T17:12:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-15T11:01:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\Assets\WideTile.scale-100.png">
+      <PackagePath>Assets\WideTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-15T11:01:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\Data\managedAssemblies.txt">
+      <PackagePath>Data\managedAssemblies.txt</PackagePath>
+      <Modified>2016-08-19T08:22:52.251</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Shared\Data\globalgamemanagers">
+      <PackagePath>Data\globalgamemanagers</PackagePath>
+      <Modified>2016-08-19T08:22:32.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Shared\Data\level0">
+      <PackagePath>Data\level0</PackagePath>
+      <Modified>2016-08-19T08:22:31.837</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Shared\Data\Resources\unity default resources">
+      <PackagePath>Data\Resources\unity default resources</PackagePath>
+      <Modified>2016-02-19T19:04:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Shared\Data\Resources\unity_builtin_extra">
+      <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
+      <Modified>2016-08-19T08:22:32.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Shared\Data\globalgamemanagers.assets">
+      <PackagePath>Data\globalgamemanagers.assets</PackagePath>
+      <Modified>2016-08-19T08:22:32.514</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Shared\Data\sharedassets0.assets">
+      <PackagePath>Data\sharedassets0.assets</PackagePath>
+      <Modified>2016-08-19T08:22:32.599</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Shared\Data\level0.resS">
+      <PackagePath>Data\level0.resS</PackagePath>
+      <Modified>2016-08-19T08:22:31.829</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Shared\Data\sharedassets0.assets.resS">
+      <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
+      <Modified>2016-08-19T08:22:32.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\Chasing Death.xr.xml">
+      <PackagePath>Chasing Death.xr.xml</PackagePath>
+      <Modified>2016-08-19T08:30:54.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-08-19T08:30:54.931</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-08-19T08:30:54.931</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UNITY\Unity Projects\Chasing Death\Builds\Universal8.1\Chasing Death\Chasing Death.Windows\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-08-19T08:30:59.706</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
